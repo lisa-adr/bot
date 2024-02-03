@@ -1,7 +1,7 @@
 const { WebhookClient, EmbedBuilder } = require('discord.js');
 const client = require("../../index");
 const config = require('../../config/config');
-const Discord = require('djs-fetchers');
+const Discord = require('djs-fetchers-v14');
 module.exports = {
   name: 'ready.js',
 };
