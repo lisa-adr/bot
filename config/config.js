@@ -3,17 +3,17 @@ module.exports = {
   Prefix: "?",
 
   Users: {
-    DEVELOPERS: ["   YOUR  USER     ID   "],
+    DEVELOPERS: [""],
   },
 
   Client: {
-    TOKEN: "    BOT     TOKEN",
-    ID: "  BOT ID   "
+    TOKEN: "",
+    ID: ""
   },
 
   Link: {
     SUPPORT: "https://discord.gg/",
-    INVITE: "https://discord.com/api/oauth2/authorize?client_id=    "CLIENTID"   &permissions=8&scope=applications.commands%20bot"
+    INVITE: "https://discord.com/api/oauth2/authorize?client_id=""&permissions=8&scope=applications.commands%20bot"
   },
 
   Embed: {
